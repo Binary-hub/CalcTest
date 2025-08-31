@@ -21,11 +21,12 @@ public class Calculator {
 	   Calculator cal = new Calculator();
 	   System.out.println("Addition: " + cal.add(10, 5));
        System.out.println("Subtraction: " + cal.sub(10, 5));
-	   System.out.println("Multiplication: " + cal.mul(10, 5));
+	   System.out.println("Multiplication1: " + cal.mul(10, 5));
 	   //System.out.println("Division: " + cal.div(10, 5));
 	}
 
 
 }
+
 
 
